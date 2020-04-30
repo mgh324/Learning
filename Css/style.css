@@ -1,7 +1,9 @@
-h1 {
-  color: crimson;
-  font-size: 4rem;
+/* Element Selector */
+#title {
+  color: green;
+  background: black;
 }
-h2 {
-  color: rgb(131, 131, 20);
+#subHeading {
+  color: red;
+  background: gray;
 }
