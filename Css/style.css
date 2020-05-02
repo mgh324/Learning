@@ -1,7 +1,11 @@
-h1 {
-  color: crimson;
-  font-size: 4rem;
+.red {
+  color: antiquewhite;
+  background-color: gray;
 }
-h2 {
-  color: rgb(131, 131, 20);
+div {
+  color: aqua;
+  background: gray;
+}
+span {
+  text-transform: uppercase;
 }
