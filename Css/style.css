@@ -1,11 +1,11 @@
-.red {
-  color: antiquewhite;
-  background-color: gray;
+body {
+  font-family: monospace;
+  line-height: 1.5em;
 }
-div {
-  color: aqua;
-  background: gray;
+body {
+  color: blue;
+  border: 3px solid black;
 }
-span {
-  text-transform: uppercase;
+h2 {
+  color: green;
 }
